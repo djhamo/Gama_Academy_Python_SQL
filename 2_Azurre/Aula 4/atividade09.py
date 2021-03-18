@@ -3,15 +3,6 @@ import pyodbc
 from datetime import datetime
 from datetime import date
 
-#server = 'localhost'
-#database = 'ATIVIDADE_09'
-#username = 'sa'
-#password = '251x2mdlltfd'   
-server = 'jacobiano.database.windows.net'
-database = 'DB_SQL_GAMMA'
-username = 'tiago'
-password = '251x2mdlltfd@'   
-driver= '{SQL Server}'
 connString = 'DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password
 #print(connString)
 
