@@ -25,8 +25,7 @@ def procData(line):
 
 server = 'localhost'
 database = 'DB_SQL_GAMMA'
-username = 'sa'
-password = '251x2mdlltfd'   
+username = 'sa'  
 driver= '{SQL Server}'
 
 
