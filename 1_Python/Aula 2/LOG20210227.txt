@@ -1,0 +1,5 @@
+Erro as  : 
+ Ao abrir o DB: Invalid format string 
+
+Erro as  
+ : Ao abrir o DB: Invalid format string
